@@ -1,0 +1,9 @@
+{"message":"something failed before start of application ","stack":"Error: something failed before start of application \n    at Object.<anonymous> (C:\\Users\\ravikumar\\Desktop\\web development\\node js\\vidly\\index.js:37:7)\n    at Module._compile (module.js:635:30)\n    at Object.Module._extensions..js (module.js:646:10)\n    at Module.load (module.js:554:32)\n    at tryModuleLoad (module.js:497:12)\n    at Function.Module._load (module.js:489:3)\n    at Function.Module.runMain (module.js:676:10)\n    at startup (bootstrap_node.js:187:16)\n    at bootstrap_node.js:608:3","level":"error","timestamp":"2023-01-11T07:05:29.756Z"}
+{"message":"p is not defined","stack":"ReferenceError: p is not defined\n    at Object.<anonymous> (C:\\Users\\ravikumar\\Desktop\\web development\\node js\\vidly\\index.js:38:1)\n    at Module._compile (module.js:635:30)\n    at Object.Module._extensions..js (module.js:646:10)\n    at Module.load (module.js:554:32)\n    at tryModuleLoad (module.js:497:12)\n    at Function.Module._load (module.js:489:3)\n    at Function.Module.runMain (module.js:676:10)\n    at startup (bootstrap_node.js:187:16)\n    at bootstrap_node.js:608:3","level":"error","timestamp":"2023-01-11T09:50:24.314Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2023-01-11T09:53:19.318Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2023-01-11T09:54:09.113Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2023-01-11T09:54:23.407Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2023-01-11T09:54:54.615Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2023-01-11T09:55:59.730Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2023-01-11T10:35:13.927Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2023-01-11T10:36:33.639Z"}
